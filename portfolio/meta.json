@@ -1,0 +1,13 @@
+{
+  "title": "Companies Interview Prep",
+  "description": "A curated set of company-specific interview preparation notes and materials.",
+  "tags": ["Interview Prep", "Data Structures", "Algorithms"],
+  "status": "Ongoing",
+  "github": "https://github.com/HARIPRASAD-2003/Companies_Interview_Prep",
+  "demo": "",
+  "roadmap": [
+    "Add UI for filtering company topics",
+    "Include downloadable notes",
+    "Mobile version"
+  ]
+}
