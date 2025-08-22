@@ -5,7 +5,7 @@
     "images": ["/projects/companies-prep-1.png", "/projects/companies-prep-2.png"],
     "techStack": ["React", "NextJS", "JavaScript", "MUI"],
     "github": "https://github.com/HARIPRASAD-2003/Companies_Interview_Prep",
-    "liveDemo": "",
+    "liveDemo": "https://companies-interview-prep.vercel.app/",
     "status": "Ongoing",
     "roadmap": [
       "Add UI for filtering company topics",
