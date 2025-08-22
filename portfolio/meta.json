@@ -1,13 +1,16 @@
 {
-  "title": "Companies Interview Prep",
-  "description": "A curated set of company-specific interview preparation notes and materials.",
-  "tags": ["Interview Prep", "Data Structures", "Algorithms"],
-  "status": "Ongoing",
-  "github": "https://github.com/HARIPRASAD-2003/Companies_Interview_Prep",
-  "demo": "",
-  "roadmap": [
-    "Add UI for filtering company topics",
-    "Include downloadable notes",
-    "Mobile version"
-  ]
+  "meta": {
+    "title": "Companies Interview Prep",
+    "description": "A curated collection of company-specific interview preparation materials, including notes, practice problems, and strategies for data structures and algorithms.",
+    "images": ["/projects/companies-prep-1.png", "/projects/companies-prep-2.png"],
+    "techStack": ["React", "NextJS", "JavaScript", "MUI"],
+    "github": "https://github.com/HARIPRASAD-2003/Companies_Interview_Prep",
+    "liveDemo": "",
+    "status": "Ongoing",
+    "roadmap": [
+      "Add UI for filtering company topics",
+      "Include downloadable notes",
+      "Develop mobile-friendly version"
+    ]
+  }
 }
