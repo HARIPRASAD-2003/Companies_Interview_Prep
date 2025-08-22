@@ -13,12 +13,12 @@
     {
       "title": "Screenshot 1",
       "description": "Initial homepage showing the collection of company topics.",
-      "base64": "/ss-1.png"
+      "base64": "https://raw.githubusercontent.com/HARIPRASAD-2003/Companies_Interview_Prep/master/portfolio/ss-1.png"
     },
     {
       "title": "Screenshot 2",
       "description": "Detailed view of interview prep material for a selected company.",
-      "base64": "/ss-2.png"
+      "base64": "https://raw.githubusercontent.com/HARIPRASAD-2003/Companies_Interview_Prep/master/portfolio/ss-2.png"
     }
   ],
   "github": "https://github.com/HARIPRASAD-2003/Companies_Interview_Prep",
