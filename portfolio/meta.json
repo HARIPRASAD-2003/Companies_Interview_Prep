@@ -8,6 +8,20 @@
     "Include downloadable notes",
     "Develop mobile-friendly version"
   ],
+  "features": [
+    "Browse company-specific interview topics and resources",
+    "Search and filter notes by company or topic",
+    "View practice problems and solutions",
+    "Responsive UI for desktop and mobile",
+    "Downloadable notes for offline study"
+  ],
+  "key_learnings": [
+    "Building a scalable React + NextJS project",
+    "State management and dynamic rendering in React",
+    "Designing user-friendly UI with MUI components",
+    "Handling client-side search, filtering, and routing",
+    "Optimizing performance and responsive design"
+  ]
   "technologies": ["React", "NextJS", "JavaScript", "MUI"],
   "eventImages": [
     {
